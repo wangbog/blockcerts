@@ -6,7 +6,7 @@
   "revokedAssertions": [
     {
       "id": "urn:uuid:07f4a037-035d-4ce0-ae45-13ba57c9af6d",
-      "revocationReason": "Too handsome"
+      "revocationReason": "因长得太帅，撤销该证书"
     }
   ]
 }
