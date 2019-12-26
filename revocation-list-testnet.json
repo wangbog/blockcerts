@@ -1,0 +1,12 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "https://wangbog.github.io/blockcerts/revocation-list-testnet.json",
+  "type": "RevocationList",
+  "issuer": "https://wangbog.github.io/blockcerts/issuer.json",
+  "revokedAssertions": [
+    {
+      "id": "urn:uuid:07f4a037-035d-4ce0-ae45-13ba57c9af6d",
+      "revocationReason": "Too handsome"
+    },
+  ]
+}
